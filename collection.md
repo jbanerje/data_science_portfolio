@@ -19,4 +19,4 @@ Top People in the field
 
 Github
 1. Sabastian Rachska
-2. Manohar swamynathan's Github
+2. Manohar swamynathan's Github (https://github.com/ManoharSwamynathan)
