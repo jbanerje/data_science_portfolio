@@ -20,3 +20,9 @@ Top People in the field
 Github
 1. Sabastian Rachska
 2. Manohar swamynathan's Github (https://github.com/ManoharSwamynathan)
+
+Interview Questions:
+
+- Machine Learning
+1. https://www.springboard.com/blog/machine-learning-interview-questions/
+2. https://www.youtube.com/watch?v=hB1CTizqGFk
