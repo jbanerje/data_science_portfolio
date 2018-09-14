@@ -26,3 +26,11 @@ Interview Questions:
 - Machine Learning
 1. https://www.springboard.com/blog/machine-learning-interview-questions/
 2. https://www.youtube.com/watch?v=hB1CTizqGFk
+
+Portfolio Pages:
+1. https://will-stanton.com
+2. http://timdettmers.com/data-science-portfolio/
+3. https://sajalsharma.com/portfolio/
+4. https://github.com/sajal2692/data-science-portfolio
+5. http://davidventuri.com/portfolio/
+6. https://chrisalbon.com/
