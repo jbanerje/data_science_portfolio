@@ -18,7 +18,7 @@ Top People in the field
 8. Bruce Ratner
 
 Github
-1. Sabastian Rachska
+1. Sabastian Rachska (https://github.com/rasbt/stat479-machine-learning-fs18)
 2. Manohar swamynathan's Github (https://github.com/ManoharSwamynathan)
 
 Interview Questions:
