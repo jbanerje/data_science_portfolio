@@ -36,5 +36,5 @@ Portfolio Pages:
 6. https://chrisalbon.com/
 
 Data:
-https://catalog.data.gov/dataset?res_format=CSV&groups=safety3175
-https://catalog.data.gov/dataset?res_format=CSV&groups=education2168
+1. https://catalog.data.gov/dataset?res_format=CSV&groups=safety3175
+2. https://catalog.data.gov/dataset?res_format=CSV&groups=education2168
