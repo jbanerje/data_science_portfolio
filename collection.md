@@ -34,3 +34,7 @@ Portfolio Pages:
 4. https://github.com/sajal2692/data-science-portfolio
 5. http://davidventuri.com/portfolio/
 6. https://chrisalbon.com/
+
+Data:
+https://catalog.data.gov/dataset?res_format=CSV&groups=safety3175
+https://catalog.data.gov/dataset?res_format=CSV&groups=education2168
