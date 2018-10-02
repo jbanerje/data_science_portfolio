@@ -38,3 +38,6 @@ Portfolio Pages:
 Data:
 1. https://catalog.data.gov/dataset?res_format=CSV&groups=safety3175
 2. https://catalog.data.gov/dataset?res_format=CSV&groups=education2168
+
+Kaggle Kernels:
+https://www.kaggle.com/willkoehrsen/start-here-a-gentle-introduction
