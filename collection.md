@@ -41,3 +41,6 @@ Data:
 
 Kaggle Kernels:
 https://www.kaggle.com/willkoehrsen/start-here-a-gentle-introduction
+
+Seaborn Viz :
+https://mlwhiz.com/blog/2015/09/13/seaborn_visualizations/
